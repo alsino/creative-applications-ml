@@ -1,4 +1,4 @@
-# Creative Applications of Machine Learning –  A Hands-On Workshop for (Absolute) Beginners
+# Creative Applications of Machine Learning –  <br/> A Hands-On Workshop for (Absolute) Beginners
 
 Materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 October 2019, 10am - 4pm
 
