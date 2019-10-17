@@ -7,6 +7,6 @@ Materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 October 2019, 1
 ## Get started
 To run each example, open your terminal, type in the following commands:
 ```
-$ git clone https://github.com/yining1023/bots-and-machine-learning.git
-$ cd bots-and-machine-learning
+$ git clone https://github.com/alsino/creative-applications-ml.git
+$ cd creative-applications-ml
 $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
