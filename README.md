@@ -17,7 +17,7 @@ The intoductory presentation can be found here: [Slides](https://etherpad.net/p/
 
 
 ## Get started
-To run each example, open your terminal, type in the following commands:
+To run each code example, open your terminal, type in the following commands to download this repository and start a simple web-server (note: you will need to have python installed on your machine):
 ```
 $ git clone https://github.com/alsino/creative-applications-ml.git
 $ cd creative-applications-ml
