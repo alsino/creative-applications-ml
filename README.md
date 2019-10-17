@@ -6,9 +6,14 @@ All code and materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 Oc
 
 --
 
-## Materials and interactive link collection
+## Interactive link collection
 
 We are collecting all links and non-code materials on our [EtherPad](https://etherpad.net/p/creative-applications-ml).
+
+## Presentation
+
+The slides to the presentation can be found here [EtherPad](https://etherpad.net/p/creative-applications-ml).
+
 
 ## Get started
 To run each example, open your terminal, type in the following commands:
