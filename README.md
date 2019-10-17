@@ -13,7 +13,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 
 ## Presentation
 
-The intoductory presentation can be found here: [Slides](https://etherpad.net/p/creative-applications-ml).
+The intoductory presentation can be found here: [Slides](https://etherpad.net/p/creative-applications-ml)
 
 
 ## Get started
