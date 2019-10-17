@@ -2,6 +2,8 @@
 
 Materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 October 2019, 10am - 4pm
 
+[teaser]: https://github.com/alsino/creative-applications-ml/blob/master/img/01.png
+
 ## Get started
 To run each example, open your terminal, type in the following commands:
 ```
