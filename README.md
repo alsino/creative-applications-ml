@@ -2,7 +2,7 @@
 
 All code and materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 October 2019, 10am - 4pm
 
-![Workshop teaser](https://github.com/alsino/creative-applications-ml/blob/master/img/intro.jpeg)
+![Workshop teaser](https://github.com/alsino/creative-applications-ml/blob/master/assets/img/intro.jpeg)
 
 --
 
