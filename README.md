@@ -4,7 +4,7 @@ This is a repository with all the code and materials for the DAAD Alumni-Worksho
 
 This workshops draws heavily on the friendly open source projects [ml5.js](https://ml5js.org/) and [p5.js](https://p5js.org/), which you should check out. 
 
-A special and big shoutout to [Yining Shi](https://github.com/yining1023) who developed many of the materials provided here. The curriculum of this workshop was heavily inspired by Yining's introductiory course on machine learning at the School of Machines in the summer of 2019 and her [Machine Learning for the Web's](https://github.com/yining1023/machine-learning-for-the-web) class at ITP.
+A special and big shoutout to [Yining Shi](https://github.com/yining1023) who developed many of the materials provided here. The curriculum of this workshop was heavily inspired by Yining's introductiory course on [Bots and Machine Learning](https://schoolofma.org/bots) at the School of Machines in the summer of 2019 and her [Machine Learning for the Web's](https://github.com/yining1023/machine-learning-for-the-web) class at ITP.
 
 ![Workshop teaser](https://github.com/alsino/creative-applications-ml/blob/master/assets/img/intro.jpeg)
 
