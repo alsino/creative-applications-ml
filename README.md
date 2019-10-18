@@ -14,7 +14,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 
 ## Presentation
 
-The intoductory presentation can be found here: [INSERT LINK HERE](https://etherpad.net/p/creative-applications-ml)
+The intoductory presentation can be found here: [Presentation](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)
 
 --
 
