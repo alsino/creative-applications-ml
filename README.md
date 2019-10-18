@@ -21,7 +21,7 @@ The introductory workshop presentation can be downloaded here: [Slides](https://
 
 
 ## Get started
-To run each code example, open your terminal ([Mac](https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/) or [Windows](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/#targetText=Open%20Command%20Prompt%20from%20the,open%20an%20administrator%20Command%20Prompt.)), type in the following commands:
+To run each code example, open your terminal ([Mac](https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/) or [Windows](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/#targetText=Open%20Command%20Prompt%20from%20the,open%20an%20administrator%20Command%20Prompt.)) and type in the following commands:
 ```
 Clone this repository (folder)
 $ git clone https://github.com/alsino/creative-applications-ml.git
