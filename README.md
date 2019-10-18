@@ -35,7 +35,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 - What are some of the most important concepts in ML?
 - What are common applications of machine learning?
 - Why should we engage with creative applications of ML?
-- What are tools we can use in creative ML appilications?
+- What are tools we can use in creative ML applications?
 
 
 ## Get started
