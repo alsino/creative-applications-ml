@@ -12,14 +12,12 @@ A special and big shoutout to [Yining Shi](https://github.com/yining1023) who de
 
 ## Housekeping
 
-We are collecting all links and non-code materials on our [EtherPad](https://etherpad.net/p/creative-applications-ml). This way we can exchange materials and links on the fly with everybody without having to set up a chat group or slack.
-
+We are collecting all links and non-code materials on our [EtherPad](https://etherpad.net/p/creative-applications-ml). This way we can exchange materials and links on the fly with everybody without having to set up a chat group or slack.  
 
 
 ## Presentation
 
-The introductory workshop presentation can be downloaded here: [Slides](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)
-
+The introductory workshop presentation can be downloaded here: [Slides](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)  
 
 
 ## Get started
