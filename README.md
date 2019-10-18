@@ -19,7 +19,7 @@ The intoductory presentation can be found here: [INSERT LINK HERE](https://ether
 --
 
 ## Get started
-To run each code example, open your terminal, type in the following commands to download this repository and start a simple web-server (note: you will need to have python installed on your machine):
+To run each code example, open your terminal, type in the following commands:
 ```
 Clone this repository (folder)
 $ git clone https://github.com/alsino/creative-applications-ml.git
@@ -30,7 +30,7 @@ $ cd creative-applications-ml
 Go to the example folder we are working in, i.e. for imageClassification
 $ cd 1-imageClassification
 
-Start up a simple web server in the current directory
+Start up a simple web server in the current directory (note: you will need to have python installed on your machine)
 $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
 
 
