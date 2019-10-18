@@ -2,7 +2,9 @@
 
 This is a repository with all the code and materials for the DAAD Alumni-Workshop at daadgalerie_studio, 21 October 2019, 10am - 4pm. 
 
-This workshops draws heavily on the friendly open source projects [ml5.js](https://ml5js.org/) and [p5.js](https://p5js.org/), whci you should check out. A big shoutout to [Yining Shi](https://github.com/yining1023) who developed many of the materials provided here. The curriculum of this workshop was heavily inspired by Yining's introductiory course on machine learning at the School of Machines in the summer of 2019 and her [Machine Learning for the Web's](https://github.com/yining1023/machine-learning-for-the-web) class at ITP.
+This workshops draws heavily on the friendly open source projects [ml5.js](https://ml5js.org/) and [p5.js](https://p5js.org/), which you should check out. 
+
+A special and big shoutout to [Yining Shi](https://github.com/yining1023) who developed many of the materials provided here. The curriculum of this workshop was heavily inspired by Yining's introductiory course on machine learning at the School of Machines in the summer of 2019 and her [Machine Learning for the Web's](https://github.com/yining1023/machine-learning-for-the-web) class at ITP.
 
 ![Workshop teaser](https://github.com/alsino/creative-applications-ml/blob/master/assets/img/intro.jpeg)
 
