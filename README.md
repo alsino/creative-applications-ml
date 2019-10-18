@@ -19,6 +19,21 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 
 The introductory workshop presentation can be downloaded here: [Slides](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)  
 
+## Agenda
+
+**10am - 12pm: Introduction to Machine Learning**
+- A quick introduction to Machine Learning
+- Hands-on 1: Basics of JavaScript and p5.js
+
+**12pm - 1pm: Lunch Break**
+
+**1pm - 4pm: Machine Learning with ml5.js and Runway**
+- Hands-on 2: Image classification with MobileNet
+- Hands-on 3: Pose estimation (PoseNet) with ml5.js
+- Hands-on 3: Generate images from text (AttnGan-Runway)
+- Next steps: Where to go from here? (Resources)
+- Feedback
+
 
 ## Get started
 To run each code example, open your terminal ([Mac](https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/) or [Windows](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/#targetText=Open%20Command%20Prompt%20from%20the,open%20an%20administrator%20Command%20Prompt.)) and type in the following commands:
