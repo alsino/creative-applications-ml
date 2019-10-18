@@ -21,11 +21,18 @@ The intoductory presentation can be found here: [INSERT LINK HERE](https://ether
 ## Get started
 To run each code example, open your terminal, type in the following commands to download this repository and start a simple web-server (note: you will need to have python installed on your machine):
 ```
+Clone this repository (folder)
 $ git clone https://github.com/alsino/creative-applications-ml.git
+
+Go to the folder you have just downloaded
 $ cd creative-applications-ml
-$ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
 
 Go to the example folder we are working in, i.e. for imageClassification
 $ cd 1-imageClassification
+
+Start up a simple web server in the current directory
+$ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
+
+
 
 ```
