@@ -30,6 +30,13 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 - Next steps: Where to go from here? (Resources)
 - Feedback
 
+## Topics
+- What is Machine Learning (ML)? 
+- What are some of the most important concepts in ML?
+- What are common applications of machine learning?
+- Why should we engage with creative applications of ML?
+- What are tools we can use in creative ML appilications?
+
 
 ## Get started
 To run each code example, open your terminal (HowTo: [Mac](https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/) or [Windows](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/#targetText=Open%20Command%20Prompt%20from%20the,open%20an%20administrator%20Command%20Prompt.)) and type in the following commands:
