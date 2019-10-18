@@ -27,7 +27,7 @@ $ git clone https://github.com/alsino/creative-applications-ml.git
 Go to the folder you have just downloaded
 $ cd creative-applications-ml
 
-Go to the example folder we are working in, i.e. for imageClassification
+Go to the specific example folder we are working in, i.e. for the first imageClassification example:
 $ cd 1-imageClassification
 
 Start up a simple web server in the current directory (note: you will need to have python installed on your machine)
