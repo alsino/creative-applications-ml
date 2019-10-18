@@ -15,14 +15,10 @@ A special and big shoutout to [Yining Shi](https://github.com/yining1023) who de
 We are collecting all links and non-code materials on our [EtherPad](https://etherpad.net/p/creative-applications-ml). This way we can exchange materials and links on the fly with everybody without having to set up a chat group or slack.  
 
 
-## Presentation
-
-The introductory workshop presentation can be downloaded here: [Slides](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)  
-
 ## Agenda
 
 **10am - 12pm: Introduction to Machine Learning**
-- A quick introduction to Machine Learning
+- A Quick Introduction to Machine Learning ([Presentation](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf))
 - Hands-on 1: Basics of JavaScript and p5.js
 
 **12pm - 1pm: Lunch Break**
