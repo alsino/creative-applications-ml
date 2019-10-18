@@ -18,7 +18,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 
 ## Presentation
 
-The introductory presentation can be downloaded here: [Slides](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)
+The introductory workshop presentation can be downloaded here: [Slides](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf)
 
 --
 
