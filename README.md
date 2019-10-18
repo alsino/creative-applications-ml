@@ -24,3 +24,8 @@ To run each code example, open your terminal, type in the following commands to 
 $ git clone https://github.com/alsino/creative-applications-ml.git
 $ cd creative-applications-ml
 $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
+
+Go to the example folder we are working in, i.e. for imageClassification
+$ cd 1-imageClassification
+
+```
