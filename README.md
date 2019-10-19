@@ -26,7 +26,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 **1pm - 4pm: Machine Learning with ml5.js and Runway**
 - Hands-on 2: Image classification with MobileNet
 - Hands-on 3: Pose estimation (PoseNet) with ml5.js
-- Hands-on 3: Generate images from text (AttnGan-Runway)
+- Hands-on 4: Generate images from text (AttnGan-Runway)
 - Next steps: Where to go from here? (Resources)
 - Feedback
 
