@@ -18,7 +18,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 ## Agenda
 
 **10am - 12pm: Introduction to Machine Learning**
-- A Quick Introduction to Machine Learning ([Presentation](https://github.com/alsino/creative-applications-ml/blob/master/presentation/daad-ml-intro_compressed.pdf))
+- A Quick Introduction to Machine Learning ([Presentation](https://github.com/alsino/creative-applications-ml/blob/master/presentation/intro_compressed.pdf))
 - Hands-on 1: A very basic introduction to JavaScript and p5.js
 
 **12pm - 1pm: Lunch Break**
