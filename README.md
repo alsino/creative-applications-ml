@@ -57,3 +57,6 @@ $ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using py
 
 
 ```
+
+## Install Python
+In case you do not have python installed on your computer, here are the instructions for installation for both [Mac](https://realpython.com/installing-python/#macos-mac-os-x) and [Windows](https://realpython.com/installing-python/#windows).
