@@ -14,6 +14,12 @@ A special and big shoutout to [Yining Shi](https://github.com/yining1023) who de
 
 We are collecting all links and non-code materials on our [EtherPad](https://etherpad.net/p/creative-applications-ml). This way we can exchange materials and links on the fly with everybody without having to set up a chat group or slack.  
 
+## Topics
+- What is Machine Learning (ML)? 
+- What are some of the most important concepts in ML?
+- What are common applications of machine learning?
+- Why should we engage with creative applications of ML?
+- What are tools we can use in creative ML applications?
 
 ## Agenda
 
@@ -30,12 +36,7 @@ We are collecting all links and non-code materials on our [EtherPad](https://eth
 - Next steps: Where to go from here? (Resources)
 - Feedback
 
-## Topics
-- What is Machine Learning (ML)? 
-- What are some of the most important concepts in ML?
-- What are common applications of machine learning?
-- Why should we engage with creative applications of ML?
-- What are tools we can use in creative ML applications?
+
 
 
 ## Get started
